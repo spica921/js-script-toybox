@@ -37,4 +37,4 @@
     - 前提
         - このブランチをチェックアウトしていること
 
-                node calc_timespan.ts
+                node calc_timespan.s
