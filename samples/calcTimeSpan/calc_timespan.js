@@ -16,7 +16,7 @@
 
   // 計算結果
   const hours = (diffMinutes - (diffMinutes % 60)) / 60;
-  const minutes = diffMinutes - hours * 60;
+  const minutes = diffMinutes - (hours * 60);
   const result = hours + "時間 " + minutes + "分";
   console.log(result);
 })();
