@@ -14,4 +14,5 @@
 - node.js
     1. [このファイル](calc_timespan.js)の内容をローカルファイルの保存<br>
         STARTの値を適宜変更すること
-    2.  node calc_timespan.js
+    2.  コンソールから下を実行<br>
+        `node calc_timespan.js`
